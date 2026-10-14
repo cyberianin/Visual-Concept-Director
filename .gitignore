@@ -1,0 +1,26 @@
+# Local editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local Python and Node tooling
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+npm-debug.log*
+
+# Private notes, generated evidence, and temporary artifacts
+.codex/
+.agents/
+evidence/
+tmp/
+temp/
+*.log
+*.tmp
+*.bak
+*.swp
+.env
+.env.*
+!.env.example

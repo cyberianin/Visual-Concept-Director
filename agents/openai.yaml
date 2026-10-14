@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Concept Director"
+  short_description: "Concept-led UI, web, cards, and graphic design"
+  default_prompt: "Use $visual-concept-director to develop an idea tailored to my task, create the appropriate deliverable, preserve my content's language, and inspect the actual result."
