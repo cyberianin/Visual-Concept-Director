@@ -46,7 +46,7 @@ visual-concept-director/
 
 ## Installation
 
-The primary distribution route is the [skills CLI](https://github.com/vercel-labs/skills). It requires Node.js and `npx`. Run these commands after this repository has been pushed to GitHub; the remote repository is empty until then. With no agent flag, the CLI prompts for an installation target.
+The primary distribution route is the [skills CLI](https://github.com/vercel-labs/skills). It requires Node.js and `npx`. Run these commands once the skill files are available on GitHub. With no agent flag, the CLI selects a detected agent or prompts for a target, depending on the environment.
 
 ```sh
 # Choose an agent interactively for the current project
